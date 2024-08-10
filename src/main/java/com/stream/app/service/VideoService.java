@@ -17,6 +17,6 @@ public interface VideoService {
 
     Video getByTitle(String title);
 
-    List<Video> getALl();
+    List<Video> getAll();
 }
 
